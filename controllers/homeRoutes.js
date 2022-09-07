@@ -1,11 +1,17 @@
 //PLAN
 
-//get all comments & posts for homepage (do these two need to be seperate?)
-  // get items from comment table and post table 
+//(do these two need to be seperate?)
+//get all posts for homepage
+  //get items from post table 
 
-//Comment on a post (attach id to post?)
-  //isauth to post 
-  // if not redirect to login page 
+//get all comments for homepage 
+  //get items from comment table 
+
+
+
+//Comment on a post 
+  //isauth to make comment  
+  // if not auth redirect to login page 
 
 //get dashboard view 
  

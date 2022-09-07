@@ -1,4 +1,3 @@
-//18:49
 const Sequelize = require('sequelize');
 require('dotenv').config();
 

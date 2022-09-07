@@ -5,7 +5,7 @@ const commentData = [
         body: 'strongly dissagree i hate messy burritos!'
     },
     {
-        body: 'Yes! MnMs are slepted on heavy.'
+        body: 'Yes! MnMs are so good, my favoruite.'
     }
 ]
 
